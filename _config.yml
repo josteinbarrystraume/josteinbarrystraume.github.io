@@ -184,11 +184,11 @@ exclude:
   - vendor
   - _pages/blog.md
   - _posts/
-  - _projects/?_project.md
+  #- _projects/?_project.md
   - assets/jupyter/blog.ipynb
   - _pages/dropdown.md
   - assets/js/search/
-  - _projects/
+  #- _projects/
   - _pages/profiles.md
 keep_files:
   - CNAME
