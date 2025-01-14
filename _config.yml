@@ -188,6 +188,8 @@ exclude:
   - assets/jupyter/blog.ipynb
   - _pages/dropdown.md
   - assets/js/search/
+  - _projects/
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
