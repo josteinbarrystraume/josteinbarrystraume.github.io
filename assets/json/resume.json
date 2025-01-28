@@ -40,6 +40,33 @@
       "endDate": "Present",
       "summary": "Apply physics-informed neural networks (PINNs) to optimal control problems. Leverage automatic differentiation to impart the physical laws of a dynamical system into a neural network’s training regiment. Implement custom neural network loss functions that use mixed and partial derivatives via automatic differentiation.",
       "highlights": ["Scientific Machine Learning", "Physics-Informed Neural Networks", "Optimal Control Problems", "Ensemble Control", "Hamilton-Jacobi-Bellman Equation"]
+    },
+    {
+      "name": "Department of Computer Science, Virginia Tech",
+      "position": "Graduate Research Assistant",
+      "url": "https://cs.vt.edu/",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Lead Graduate Teaching Assistant (GTA) for CS3604: Professionalism for Computing. GTA for CS3114/CS5040: Data Structures and Algorithm Analysis.",
+      "highlights": ["Instructor", "Course Administration", "Data Structures", "Algorithm Analysis", "Java"]
+    },
+    {
+      "name": "Laboratory for Applied Mathematics, Numerical Software, and Statistics (LANS), Argonne National Laboratory",
+      "position": "Givens Associate: Mathematics & Computer Science",
+      "url": "https://www.anl.gov/mcs/lans",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "The Givens Associate positions are intended to encourage professional growth in graduate students who are beginning careers in numerical analysis or computational mathematics. Research the following automatic differentiation modes: reverse (back-propagation), forward, and mixed (mixing and matching both reverse and forward in the same neural network). Contribute to the development of AutoMAD, a mixed mode automatic differentiation API for PyTorch’s automatic differentiation engine (Autograd): https://github.com/jhueckelheim/AutoMAD",
+      "highlights": ["Automatic Differentiation", "Computational Mathematics"]
+    }
+    {
+      "name": "Los Alamos National Laboratory",
+      "position": "PhD Intern: Information Systems & Modeling",
+      "url": "https://www.lanl.gov/",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Research approaches in risk assessment and risk reduction for national critical cyber and physical infrastructure. Apply natural language processing (NLP) techniques to decompose national critical functions (NCFs) into sub-functions for the purposes of highlighting vital functional resilience and potential vulnerabilities. Contribute to graph analytics via network path analysis, critical node identification, and automated graph discovery (data analytics, machine learning, and NLP methods).",
+      "highlights": ["Natural Language Processing", "Ontological Decomposition", "Graph Analysis", "Risk Assessment"]
     }
   ],
   "volunteer": [
