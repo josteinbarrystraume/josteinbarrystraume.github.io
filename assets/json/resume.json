@@ -58,7 +58,7 @@
       "endDate": "2022",
       "summary": "The Givens Associate positions are intended to encourage professional growth in graduate students who are beginning careers in numerical analysis or computational mathematics. Research the following automatic differentiation modes: reverse (back-propagation), forward, and mixed (mixing and matching both reverse and forward in the same neural network). Contribute to the development of AutoMAD, a mixed mode automatic differentiation API for PyTorch’s automatic differentiation engine (Autograd): https://github.com/jhueckelheim/AutoMAD",
       "highlights": ["Automatic Differentiation", "Computational Mathematics"]
-    }
+    },
     {
       "name": "Los Alamos National Laboratory",
       "position": "PhD Intern: Information Systems & Modeling",
