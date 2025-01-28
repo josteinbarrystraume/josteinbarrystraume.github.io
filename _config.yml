@@ -190,6 +190,7 @@ exclude:
   - assets/js/search/
   - _projects/
   - _pages/profiles.md
+  - _data/cv.yml
 keep_files:
   - CNAME
   - .nojekyll
