@@ -45,16 +45,16 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-am-excited-to-present-my-work-on-physics-informed-neural-networks-at-the-url-2024-siam-annual-conference-https-meetings-siam-org-sess-dsp-programsess-cfm-sessioncode-79952",
+          title: 'I am excited to present my work on physics-informed neural networks at the...',
           description: "",
           section: "News",},{
       id: 'light-theme',
