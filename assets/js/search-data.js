@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-i-am-enthusiastic-to-discuss-my-contributions-to-knowledge-guided-machine-learning-at-the-aaai-fall-symposium",
-          title: 'I am enthusiastic to discuss my contributions to Knowledge-Guided Machine Learning at the...',
+    },{id: "news-looking-forward-to-presenting-at-the-aaai-fall-symposium-on-knowledge-guided-machine-learning",
+          title: 'Looking forward to presenting at the AAAI Fall Symposium on Knowledge-Guided Machine Learning....',
           description: "",
           section: "News",},{id: "news-i-am-excited-to-present-my-work-on-physics-informed-neural-networks-at-the-2024-siam-annual-conference",
           title: 'I am excited to present my work on physics-informed neural networks at the...',
