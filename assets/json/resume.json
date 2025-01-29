@@ -78,7 +78,6 @@
       "studyType": "PhD in Computer Science",
       "startDate": "2020",
       "endDate": "2025",
-      "score": "",
       "courses": ["Advisor: Dr. Adrian Sandu", "Co-Advisor: Dr. Changmin Son"]
     },
     {
@@ -88,9 +87,7 @@
       "area": "Machine Learning Specialization",
       "studyType": "M.S. in Data Science",
       "startDate": "2017",
-      "endDate": "2018",
-      "score": "",
-      "courses": []
+      "endDate": "2018"
     },
     {
       "institution": "University of Southern California, Los Angeles, California",
@@ -99,9 +96,7 @@
       "area": ,
       "studyType": "B.A. in Economics",
       "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": []
+      "endDate": ""
     }
   ],
   "publications": [
