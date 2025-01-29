@@ -45,10 +45,7 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-am-enthusiastic-to-discuss-my-contributions-to-knowledge-guided-machine-learning-at-the-aaai-fall-symposium",
+    },{id: "news-i-am-enthusiastic-to-discuss-my-contributions-to-knowledge-guided-machine-learning-at-the-aaai-fall-symposium",
           title: 'I am enthusiastic to discuss my contributions to Knowledge-Guided Machine Learning at the...',
           description: "",
           section: "News",},{id: "news-i-am-excited-to-present-my-work-on-physics-informed-neural-networks-at-the-2024-siam-annual-conference",
