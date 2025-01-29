@@ -53,7 +53,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-am-excited-to-present-my-work-on-physics-informed-neural-networks-at-the-url-2024-siam-annual-conference-https-meetings-siam-org-sess-dsp-programsess-cfm-sessioncode-79952",
+          section: "News",},{id: "news-i-am-excited-to-present-my-work-on-physics-informed-neural-networks-at-the-2024-siam-annual-conference",
           title: 'I am excited to present my work on physics-informed neural networks at the...',
           description: "",
           section: "News",},{
