@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I am excited to present my work on physics-informed neural networks at the \url{2024 SIAM Annual Conference
-}{https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79952}.
+I am excited to present my work on physics-informed neural networks at the [2024 SIAM Annual Conference
+](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79952).
