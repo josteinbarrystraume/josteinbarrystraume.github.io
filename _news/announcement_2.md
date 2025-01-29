@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am enthusiastic to discuss my contributions to Knowledge-Guided Machine Learning at the [AAAI Fall Symposium](https://sites.google.com/vt.edu/kgml-aaai-22).
+Looking forward to presenting at the [AAAI Fall Symposium](https://sites.google.com/vt.edu/kgml-aaai-22) on Knowledge-Guided Machine Learning.
