@@ -74,29 +74,34 @@
       "institution": "Virginia Tech, Blacksburg, Virginia",
       "location": "Blacksburg, Virginia",
       "url": "https://cs.vt.edu/",
-      "area": "Scientific Machine Learning, Uncertainty Quantification, Optimal Control",
-      "studyType": "PhD in Computer Science",
+      "area": "Computer Science",
+      "studyType": "PhD",
       "startDate": "2020",
       "endDate": "2025",
+      "score": "",
       "courses": ["Advisor: Dr. Adrian Sandu", "Co-Advisor: Dr. Changmin Son"]
     },
     {
       "institution": "Southern Methodist University, Dallas, Texas",
       "location": "Dallas, Texas",
       "url": "",
-      "area": "Machine Learning Specialization",
-      "studyType": "M.S. in Data Science",
+      "area": "Data Science",
+      "studyType": "M.S.",
       "startDate": "2017",
-      "endDate": "2018"
+      "endDate": "2018",
+      "score": "",
+      "courses": ["Machine Learning Specialization"]
     },
     {
       "institution": "University of Southern California, Los Angeles, California",
       "location": "Los Angeles, California",
       "url": "",
-      "area": ,
-      "studyType": "B.A. in Economics",
+      "area": "Economics",
+      "studyType": "B.A.",
       "startDate": "",
-      "endDate": ""
+      "endDate": "",
+      "score": "",
+      "courses": []
     }
   ],
   "publications": [
